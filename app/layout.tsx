@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   title: "LLM Arena",
   description:
     "Send one prompt to three models at once, watch them answer side by side, and vote for the best.",
+  icons: {
+    icon: "/logo.webp",
+  },
 };
 
 export default function RootLayout({
