@@ -82,8 +82,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/llm-arena
-cd llm-arena
+git clone https://github.com/NipunKachwaha/LLM-Arena
+cd LLM-Arena
 ```
 
 **Installation**
